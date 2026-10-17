@@ -1,2 +1,5 @@
-# MayuriPortfolio
-Explore the creative portfolio of Mayuri Khairnar, a Writer &amp; Storyteller passionate about crafting compelling brand stories, engaging campaigns, impactful copy, and meaningful content. Discover her work across advertising, social media, websites, and brand communication, where every word connects ideas with people.
+# Mayuri Khairnar — Portfolio
+
+Upload all three files (`index.html`, `Mayuri_Khairnar_CV.pdf`, and `README.md`) to the root of your GitHub repository. Keep the CV PDF in the same folder as `index.html` so the CV buttons work.
+
+Then enable GitHub Pages in **Settings → Pages → Deploy from a branch → main → /(root)**.
