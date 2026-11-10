@@ -1,7 +1,5 @@
 # Mayuri Khairnar — Portfolio
 
-The Brands section includes the existing logo images plus additional brand names from the supplied portfolio-links document.
+Includes a Brands I've Worked With section featuring the 20 supplied brand logos.
 
-Upload `index.html`, `Mayuri_Khairnar_CV.pdf`, and `README.md` to the root of the GitHub repository. Keep the CV PDF beside `index.html` so the CV buttons work.
-
-To publish, configure GitHub Pages under Settings → Pages → Deploy from a branch → main → /(root).
+Upload `index.html`, `Mayuri_Khairnar_CV.pdf`, and `README.md` to the root of your GitHub repository. Keep the CV PDF beside `index.html` so the CV links work. Enable GitHub Pages in **Settings → Pages → Deploy from a branch → main → /(root)**.
